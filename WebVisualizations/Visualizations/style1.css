@@ -60,3 +60,13 @@
 #titles.container { 
     background-color: aliceblue;
 }
+
+#comparison.jumbotron { 
+
+    background-image: url("https://www.backpacker.com/.image/t_share/MTUwMjg2MzU4NDE2NDY2OTYx/33438920365_150e2dd637_k.jpg");
+    background-position: center;
+}
+
+#centered.col-md-12 { 
+    text-align: center;
+}
