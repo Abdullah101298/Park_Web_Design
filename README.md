@@ -25,3 +25,5 @@ This page contains visualization that compares the visitor count to the populati
 This page consists of a dataframe of some of the data we used for question 2 obtained using a Dark Sky API. 
 
 #### Link to the original project: https://github.com/Eng-Hisham991/National_Park_Analysis
+
+permalink: /index.html
