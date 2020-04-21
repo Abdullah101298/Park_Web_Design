@@ -70,3 +70,16 @@
 #centered.col-md-12 { 
     text-align: center;
 }
+
+#data.jumbotron { 
+
+    background-image: url("https://afar-production.imgix.net/uploads/images/afar_post_headers/images/g478vQR3So/original_ApinBen465_hutterstock_1406757632.jpg");
+    background-position: center;
+}
+
+.dataframe { 
+    background-color: aliceblue;
+    margin-left: 500px;
+    text-align: center;
+    
+}
